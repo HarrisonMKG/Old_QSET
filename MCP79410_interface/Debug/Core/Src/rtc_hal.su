@@ -1,0 +1,4 @@
+../Core/Src/rtc_hal.c:162:6:rtc_hal_init	16	static
+../Core/Src/rtc_hal.c:235:6:rtc_hal_set_slave	16	static
+../Core/Src/rtc_hal.c:241:6:rtc_hal_write	40	static
+../Core/Src/rtc_hal.c:302:6:rtc_hal_read	24	static
